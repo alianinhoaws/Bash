@@ -156,9 +156,6 @@ function ShowInfo(){
 	fi
 }
 
-function New (){
-}
-
 exit=true
 
 while [ $exit == true ]
